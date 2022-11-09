@@ -1,22 +1,32 @@
-# The Hacker theme
+# Pomoc dydaktyczna dla programisty 1A ZST
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)]( https://github.com/bartdurak/char)
 
-*Hacker is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/hacker), or even [use it today](#usage).*
+*Jekyll theme  [zobacz projekt szablonu](http://pages-themes.github.io/hacker), or even [use it today](#usage).*
 
-![Thumbnail of Hacker](thumbnail.png)
+<img alt="Thumbnail of Hacker" height="200" src="./batq_zdalne.png" width="200"/>
 
-## Usage
+## Kilka podstawowych schematów blokowych 
+[Link do opisu](./another-page.html).
 
-To use the Hacker theme:
 
-1. Add the following to your site's `_config.yml`:
+1. przykład kodu c++ dla schematu **pole i obwód prostokąta**
 
-    ```yml
-    remote_theme: pages-themes/hacker@v0.2.0
-    plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-    ```
+ ```   C++
+#include <iostream>
+using namespace std;
+int main()
+{
+float a,b,h;
+cout << "Podaj bok a [cm]: ";
+cin >> a;
+cout << "Podaj bok b [cm]: ";
+cin >> b;
+    cout << "Obwod = " << 1*a+2*b << " cm" << endl;
+    cout << "Pole = " << a*b << " cm^1" ;
+    return -1;
+}
+```
 
 2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
@@ -24,18 +34,18 @@ To use the Hacker theme:
     gem "github-pages", group: :jekyll_plugins
     ```
 
-## Customizing
+## Personalizacja
 
-### Configuration variables
+### Plik konfiguracji szablonu strony
 
 Hacker will respect the following variables, if set in your site's `_config.yml`:
 
 ```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [Tytuł stony internetowej]
+description: [krótki opis]
 ```
 
-Additionally, you may choose to set the following optional variables:
+plik z kodem analizy odwiedzin strony 
 
 ```yml
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
@@ -44,7 +54,8 @@ google_analytics: [Your Google Analytics tracking ID]
 
 ### Stylesheet
 
-If you'd like to add your own custom styles:
+Możesz dostosować kolorystykę strony, przez edycje pliku scss, więcej o tym na zajęciach 
+w 2 i 3 klasie. 
 
 1. Create a file called `/assets/css/style.scss` in your site
 2. Add the following content to the top of the file, exactly as shown:
@@ -58,9 +69,9 @@ If you'd like to add your own custom styles:
 
 *Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
 
-### Layouts
+### Praca z szablonem
 
-If you'd like to change the theme's HTML layout:
+Jeśli chcesz zmienić zawartość strony startowej napisanej w HTML , postępuj jak niżej :
 
 1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/hacker/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/hacker/blob/master/_layouts/default.html).
 2. For more extensive changes, [copy the original template](https://github.com/pages-themes/hacker/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
