@@ -131,7 +131,9 @@ Operację odnajdowania minimalnego elementu w tablicy możemy zapisać następuj
 ```
 * * *
 
+### And a nested list:
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 ### Z waszego podręcznika INF.04
 
 ![](/home/fed6/Downloads/IMG_7437.jpg)
@@ -185,13 +187,12 @@ int main()
     }
     cout << "Liczba min to: " << min << endl;
     cout << "Liczba max to: " << max << endl;
+
     system("PAUSE >NUL");
     return 0;
 }
 ```
 ### Large image
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-### And a nested list:
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
