@@ -129,11 +129,7 @@ Operację odnajdowania minimalnego elementu w tablicy możemy zapisać następuj
 | ok    | szukane           | min   |
 | ok    | szukane           | max   |
 ```
-* * *
 
-### And a nested list:
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 ### Z waszego podręcznika INF.04
 
 ![](/home/fed6/Downloads/IMG_7437.jpg)
@@ -192,7 +188,12 @@ int main()
     return 0;
 }
 ```
+
 ### Large image
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
+* * *
 
+### And a nested list:
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
