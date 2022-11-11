@@ -80,7 +80,7 @@ Załóżmy że mamy daną tablicę n-elementów i chcemy odnaleźć w niej eleme
 ### Blok minimalnej wartości 
 [https://github.com/bartdurak/Progrmista_22.git](https://github.com/bartdurak/Progrmista_22.git)
 
-<img height="500" src="/home/fed6/RubymineProjects/1A/assets/images/Screenshot from 2022-11-09 02-20-10.png" width="300"/>
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/tedoh1yEU5">pic.twitter.com/tedoh1yEU5</a></p>&mdash; Bartek 🇵🇱 (@batq2) <a href="https://twitter.com/batq2/status/1591182357683662850?ref_src=twsrc%5Etfw">November 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 By odnaleźć element minimalny podejmiemy następujące kroki:
 na początku zainicjujemy wynik pierwszą wartością z tablicy, czyli a[1],
