@@ -200,10 +200,12 @@ int main()
 
 ### Linki do materiałów pdf:
 
-1. Python [](https://drive.google.com/file/d/1Yjd8V_1aH8NxYexIAING94tYJCs9i51f/view?usp=share_link)
-2. C++ [](https://docs.google.com/document/d/1ZwpNzletq-gW2Pj4nE3uNbVGeXjvHTOL/edit?usp=sharing&ouid=117430536303352971908&rtpof=true&sd=true)
+1. [Python](https://drive.google.com/file/d/1Yjd8V_1aH8NxYexIAING94tYJCs9i51f/view?usp=share_link)
+2. [C++](https://docs.google.com/document/d/1ZwpNzletq-gW2Pj4nE3uNbVGeXjvHTOL/edit?usp=sharing&ouid=117430536303352971908&rtpof=true&sd=true)
 
 ### Przydatne strony:
-1. Python [](https://python101.readthedocs.io/pl/latest/podstawy/index.html#materialy)
-2. C++ [](https://cpp0x.pl/kursy/Kurs-C++/1)
+1. [Python](https://python101.readthedocs.io/pl/latest/podstawy/index.html#materialy)
+2. [C++](https://cpp0x.pl/kursy/Kurs-C++/1)
+
+
 ![Git](https://github.githubassets.com/images/icons/emoji/octocat.png)
