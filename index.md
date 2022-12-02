@@ -5,6 +5,7 @@ strona: domyślna
 [Link objaśnienia jekkyl](./another-page.html).
 
 [Link objaśnienia git](./another-git.md).
+
 Więcej o formatowaniu w pliku README.
 
 ## Schemat blokowy pola i obwodu**prostokąta** 
