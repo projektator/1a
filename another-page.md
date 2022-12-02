@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[<=back](./)
+[<=powrót do strony głownej](./)
 # Praca na schemacie strony jekyll . Ważne: jekyll jest stroną statyczną, ma być prosta w budowie i funkcjonalna
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
 *Jekyll theme  [zobacz projekt szablonu](http://pages-themes.github.io/hacker), or even [use it today](#usage).*
