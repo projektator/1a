@@ -6,7 +6,10 @@ strona: domyślna
 
 [Link objaśnienia git](./another-git.html).
 
-Więcej o formatowaniu w pliku README.
+Więcej o formatowaniu w pliku READMEe.
+
+
+[Link objaśnienia git](./another-git.html).
 
 ## Schemat blokowy pola i obwodu**prostokąta** 
 ## i wyrażenia c = a/pierwiastek(a*b) w C++
