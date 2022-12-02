@@ -4,10 +4,8 @@ strona: domyślna
 
 [Link objaśnienia jekkyl](./another-page.html).
 
-[Link do zakładania konta github](./another-git.md).
-
-
-Więcej o formatowaniu w pliku README (czytaj to.
+[Link objaśnienia jekkyl](./another-page.md).
+Więcej o formatowaniu w pliku README.
 
 ## Schemat blokowy pola i obwodu**prostokąta** 
 ## i wyrażenia c = a/pierwiastek(a*b) w C++
@@ -209,5 +207,6 @@ int main()
 ### Przydatne strony:
 1. [Python](https://python101.readthedocs.io/pl/latest/podstawy/index.html#materialy)
 2. [C++](https://cpp0x.pl/kursy/Kurs-C++/1)
+
 
 ![Git](https://github.githubassets.com/images/icons/emoji/octocat.png)
